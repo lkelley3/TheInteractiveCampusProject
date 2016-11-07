@@ -1,3 +1,4 @@
+#Lauren will add comments!
 import pygame, sys
 from pygame.locals import *
 
